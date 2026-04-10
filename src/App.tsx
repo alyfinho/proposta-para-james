@@ -122,7 +122,7 @@ export default function App() {
                   Bônus Exclusivo
                 </span>
               </div>
-              <h3 className="text-xl font-semibold mb-3 text-white">Setup de Instagram</h3>
+              <h3 className="text-xl font-semibold mb-3 text-white">Estrutura do Instagram</h3>
               <p className="text-blue-100/70 text-sm leading-relaxed mb-6">
                 Organização completa do Instagram da loja, incluindo a identidade visual, estruturação de bio, destaques e postagens iniciais para passar credibilidade.
               </p>
@@ -179,7 +179,7 @@ export default function App() {
                   </tr>
                   <tr className="hover:bg-slate-800/50 transition-colors">
                     <td className="py-5 px-6 font-medium text-blue-400 flex items-center gap-2">
-                      Setup de Instagram Profissional
+                      Estrutura do Instagram
                     </td>
                     <td className="py-5 px-6 text-right font-semibold text-blue-400">BÔNUS</td>
                   </tr>

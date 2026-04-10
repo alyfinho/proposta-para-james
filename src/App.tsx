@@ -23,7 +23,7 @@ export default function App() {
         <div className="max-w-5xl mx-auto px-6 h-20 flex items-center justify-between">
           <div className="font-semibold tracking-tight text-lg flex items-center gap-2">
             <div className="w-3 h-3 rounded-full bg-blue-500"></div>
-            Studio Digital
+            Vizyon Company
           </div>
           <a 
             href="#investimento" 
